@@ -1,4 +1,4 @@
-# track_my_stick
+# Flutter Map
 
 A new Flutter project.
 
